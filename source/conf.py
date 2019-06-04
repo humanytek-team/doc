@@ -20,6 +20,7 @@
 project = 'Humanytek documentation'
 copyright = '2019, Humanytek'
 author = 'Humanytek'
+master_doc = 'index'
 
 
 # -- General configuration ---------------------------------------------------
