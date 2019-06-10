@@ -9,3 +9,4 @@ Welcome to Humanytek documentation's!
 
    courses/cursos
    courses/linux
+   course/github
