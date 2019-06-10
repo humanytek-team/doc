@@ -21,5 +21,6 @@ Temas
    :maxdepth: 1
 
    linux
+   github
 
 .. _Odoo: https://odoo.com
