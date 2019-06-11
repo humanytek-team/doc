@@ -9,4 +9,4 @@ Humanytek
 
    courses/cursos
    courses/linux
-   course/github
+   courses/github
