@@ -1,5 +1,6 @@
 GitHub
 ======
+**Duración: 30 min.**
 
 En este curso se abordarán temas relacionados al gestor de versiones `git` y la integración con la plataforma github_.
 

@@ -1,5 +1,6 @@
 Linux
 =====
+**Duración: 60 min.**
 
 En este curso se abordan puntos básicos sobre el manejo de un servidor basado en una imagen de Debian/Ubuntu mediante el uso de la terminal.
 
