@@ -5,7 +5,7 @@ En este curso se abordan puntos básicos sobre el manejo de un servidor basado e
 
 Requisitos previos
 ------------------
-- Comoutadora (fisica o virtual) corriendo alguna distribución de GNU/Linux basada en Debian_.
+- Computadora (física o virtual) corriendo alguna distribución de GNU/Linux basada en Debian_.
 
 Temario
 -------
@@ -274,7 +274,7 @@ Es común que no recordemos el nombre de algún comando que necesitemos, sin emb
 
 `whereis`
 .........
-En algunas ocasiones dará la necesidad de saber la ubicación del binario de un programa, para ello podemos usar el comando `whereis APP` (donde `APP` es el programa que buscamos) para saber la ruta en donde se encuentran los bianrios utilizados por el mismo.
+En algunas ocasiones dará la necesidad de saber la ubicación del binario de un programa, para ello podemos usar el comando `whereis APP` (donde `APP` es el programa que buscamos) para saber la ruta en donde se encuentran los binarios utilizados por el mismo.
 
 
 Obtener nuevos programas
@@ -288,7 +288,7 @@ Los sistemas basados en Debian cuentan con este gestor de paquetes el cual permi
 
 .. code-block:: console
 
-    [moy@AfroPC ~]$ apt-get update # Esto actualiza los repositorios utilziados para obtener los programas
+    [moy@AfroPC ~]$ apt-get update # Esto actualiza los repositorios utilizados para obtener los programas
 
     [moy@AfroPC ~]$ apt-get upgrade # Actualiza los programas instalados a la versión mas reciente listada en los repositorios internos.
     [moy@AfroPC ~]$ apt-get install python3 # Con `install` instalamos los paquetes
