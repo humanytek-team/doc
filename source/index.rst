@@ -1,5 +1,5 @@
-Welcome to Humanytek documentation's!
-=====================================
+Humanytek
+=========
 
 .. image:: images/humanytek/humanytek.png
 
