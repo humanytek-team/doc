@@ -10,3 +10,4 @@ Humanytek
    courses/cursos
    courses/linux
    courses/github
+   courses/postgresql

@@ -22,5 +22,6 @@ Temas
 
    linux
    github
+   postgresql
 
 .. _Odoo: https://odoo.com
