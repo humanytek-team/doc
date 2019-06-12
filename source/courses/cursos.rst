@@ -23,5 +23,6 @@ Temas
    linux
    github
    postgresql
+   python
 
 .. _Odoo: https://odoo.com

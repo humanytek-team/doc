@@ -11,3 +11,4 @@ Humanytek
    courses/linux
    courses/github
    courses/postgresql
+   courses/python
