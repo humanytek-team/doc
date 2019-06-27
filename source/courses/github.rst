@@ -65,4 +65,8 @@ Después de realizar varios `commits` (puede ser solo uno) podemos mandar nuestr
 
 Si queremos revertir los cambios realizados en un archivo (antes de hacer el `commit`) podemos hacer uso del comando `git checkout FILE`, con esto regresaremos el archivo a como estaba en el ultimo `commit`. Este comando también nos sirve para la creación y manejo de las ramas con la siguiente estructura: `git checkout -b BRANCH`, esto nos moverá (o creará) a la rama que indiquemos.
 
+Apéndices
+---------
+- https://help.github.com/en/articles/connecting-to-github-with-ssh
+
 .. _github: https://github.com

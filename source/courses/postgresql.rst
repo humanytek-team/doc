@@ -37,3 +37,7 @@ _____________________
 Una vez que estemos dentro de la BD hay varías cosas que podemos hacer con los registros dentro de las tablas, las mas comunes son realizar consultas (`SELECT`), actualizar registros existentes (`UPDATE`), añadir nuevos registros (`INSERT`) y eliminar los mismos (`DELETE`).
 
 Para cerrar la interfaz podemos utilizar el comando `\q` o la combinación de teclas `Ctrl-D`
+
+Apéndices
+---------
+- http://www.postgresqltutorial.com/

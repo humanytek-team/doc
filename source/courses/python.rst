@@ -54,3 +54,7 @@ Temario
     - `9.3.4. Method Objects <https://docs.python.org/3.7/tutorial/classes.html#method-objects>`_
     - `9.3.5. Class and Instance Variables <https://docs.python.org/3.7/tutorial/classes.html#class-and-instance-variables>`_
     - `9.5. Inheritance <https://docs.python.org/3.7/tutorial/classes.html#inheritance>`_
+
+Apéndices
+---------
+- https://docs.python.org/3.7/tutorial/
